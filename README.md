@@ -158,7 +158,7 @@ No Docker is required for the local MVP.
 ### 1. Open the project root
 
 ```powershell
-cd D:\Development\Projects\sentinel-rebuilt
+cd D:\Development\Projects\sentinel
 ```
 
 ### 2. Run setup
